@@ -128,7 +128,7 @@ def get_column():
     Raises:
         Exception: Any error encountered during file download or data processing.
     """
-    DIRECTORY = "siape"
+    DIRECTORY = "my_directory"
 
     target_file = request.args.get('target_file')
     target_column = request.args.get('target_column')
