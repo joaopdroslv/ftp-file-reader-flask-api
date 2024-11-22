@@ -6,10 +6,4 @@ This project is a Flask-based API for interacting with an FTP server. It allows 
 
 - **List FTP Directory**: Fetch the list of files and directories in a specified FTP folder.
 - **Read Files**: Download CSV or Excel files from the FTP server and return their content as JSON.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ftp-file-reader.git
-   cd ftp-file-reader
+- **Retrieve Specific Column**: Extract a unique, non-empty list of values from a specified column in a CSV or Excel file stored on the FTP server.
