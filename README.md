@@ -1,4 +1,4 @@
-# FTP File Reader API
+# FTP File Reader Flask API
 
 This project is a Flask-based API for interacting with an FTP server. It allows you to list directories, download files (CSV or Excel), and read their contents using Pandas.
 
